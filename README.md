@@ -3,7 +3,7 @@
 This project develops a machine learning model to forecast flight prices based on historical data and market trends. The goal is to identify key pricing factors and build a accurate predictive model to aid in cost-saving decisions.
 
 **🔗 Direct link to the complete project notebook (on Google Colab):**  
-[![Open In Colab](https://colab.research.google.com/drive/1H5WyJCkmLO0fstyzWhJ4jI_eCeEOPLr8?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1H5WyJCkmLO0fstyzWhJ4jI_eCeEOPLr8?usp=sharing)
 
 
 
@@ -41,10 +41,10 @@ The best way to explore this project is to view the executed Jupyter Notebook:
 
 # 📋 Repository Structure
 
-airline-price-prediction/
-├── Airfare_Prediction_Model.ipynb # Main analysis and modeling notebook
-├── requirements.txt # Python dependencies
-└── README.md # This file
+airline-fare-prediction/
+├── airline-fare-prediction-model.ipynb  # Main analysis and modeling notebook
+├── requirements.txt                 # List of Python dependencies
+└── README.md                       # This file
 
 
 # 👩‍💻 Author
